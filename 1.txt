@@ -1,0 +1,18 @@
+QUESTION 1. What is the benefit of Microsoft 365?
+ANSWER:
+1. access files anywhere.
+2. secure cloud storage.
+3. improved communication.
+4. predictable spend.
+5. business continuity.
+6. automatic upgrade.
+7. centralized collaboration.
+
+QUESTION 3. How to perform string formatting in excel. Demonstrate it with examples.
+ANSWER:
+1. Select the cell or range of cells that contains the numbers that you want to 
+format as text. How to select cells or a range.
+2. On the Home tab, in the Number group, click the arrow next to the Number 
+Format box, and then click Text.
+example				
+	12345678==number	1234789==number as text	
